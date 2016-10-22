@@ -1,4 +1,5 @@
 body {
+	background-color: ghostwhite;
 
 }
 
@@ -37,4 +38,13 @@ img {
 #borough_table {
 	margin-left: 20%;
 	margin-right: 20%;
+}
+
+
+.nyc_perks {
+	list-style: circle;
+}
+
+a:visited {
+	color: gray;
 }
