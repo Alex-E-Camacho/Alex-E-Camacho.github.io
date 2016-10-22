@@ -1,3 +1,40 @@
 body {
-	background-color: lightsteelblue;
+
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 5.5em;
+	text-shadow: 1px 1px #000;
+	color: white;
+	display: inline-block;
+	width: 100px;
+	z-index: 1;
+	position: relative;
+	top: 10px;
+}
+
+h3 {
+	font-family: courier;
+	font-weight: 100;
+	text-shadow: 1px 1px #000;
+	position: relative;
+	color: white;
+	border-width: .1px;
+	border: solid white;
+	padding-left: 10px;
+	display: inline-block;
+	z-index: 1;
+	margin-left: 175px;
+
+}
+
+img {
+	top: 85px;
+	position: absolute;
+}
+
+#borough_table {
+	margin-left: 20%;
+	margin-right: 20%;
 }
