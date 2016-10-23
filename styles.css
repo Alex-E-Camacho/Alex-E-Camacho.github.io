@@ -43,6 +43,11 @@ img {
 
 .nyc_perks {
 	list-style: circle;
+	font-size: 1.10em;
+}
+
+p {
+	font-size: 1.25em;
 }
 
 a:visited {
