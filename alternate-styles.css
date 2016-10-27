@@ -1,0 +1,59 @@
+#background_image {
+	opacity: .15;
+	z-index: -2;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: auto;
+
+}
+
+body {
+	font-family: 'Abril Fatface', cursive;
+	color: #F8F8FF;
+}
+
+main {
+	margin: auto 20% auto 20%;
+	background-color: #000;
+
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+#head_pic {
+	position: absolute;
+	top: 0px;
+	z-index: -1;
+}
+
+h1 {
+	font-family: helvetica;
+	font-size: 10em;
+	color: #F8F8FF;
+	width: 20%;
+	font-style: bold;
+	/*position: relative;*/
+	display: inline-block;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 1px;
+	line-height: 92px;
+	/*text-shadow: 5px 1px #000;*/
+}
+
+h3 {
+	font-family: 'Abril Fatface', cursive;
+	font-family: 'Pinyon Script', cursive;
+	font-size: 3em;
+	color: #000;
+	position: relative;
+	margin-left: 20%;
+	margin-right: 20%;
+	display: inline-block;
+	border: .5px solid #000;
+}
